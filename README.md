@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>🎓 Pursuing MCA at SB Jain Institute, Nagpur.<br><br>💻 Learning Python programming and software development.<br><br>📊 Interested in Data Analytics and Data Science.<br><br>🤖 Exploring Artificial Intelligence and Machine Learning.<br><br>🌱 Improving my problem-solving and development skills.<br><br>🎯 Looking for opportunities to learn, contribute, and grow as a developer.
+🚀 About Me<br>🎓 Pursuing MCA at SB Jain Institute, Nagpur.<br>💻 Learning Python programming and software development.<br>📊 Interested in Data Analytics and Data Science.<br>🤖 Exploring Artificial Intelligence and Machine Learning.<br>🌱 Improving my problem-solving and development skills.<br>🎯 Looking for opportunities to learn, contribute, and grow as a developer.
 
 
 ## 🌐 Socials:
